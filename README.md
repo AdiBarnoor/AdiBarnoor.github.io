@@ -9,10 +9,4 @@ I am a member of Ido Amit's lab, which focuses on immunology and all its aspects
 ### 2020-2023 The Hebrew University of Jerusalem
 BSc. in Biomedical Sciences with a specialty in Neurobiology
 
-## SUBTITLE
-* List item 1
-* List item 2
-
-![](https://cdn.britannica.com/80/150980-050-84B9202C/Giant-panda-cub-branch.jpg)
-[just a link](https://cdn.britannica.com/80/150980-050-84B9202C/Giant-panda-cub-branch.jpg)
-why cant i see it
+Currently enrolling a python beginner's class by [Gabor Szabo](https://szabgab.com/)
