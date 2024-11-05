@@ -9,4 +9,9 @@ I am a member of Ido Amit's lab, which focuses on immunology and all its aspects
 ### 2020-2023 The Hebrew University of Jerusalem
 BSc. in Biomedical Sciences with a specialty in Neurobiology
 
+## About me
+* Enjoy reading and sport
+* Love to travel
+* A loving mom
+  
 Currently enrolling a python beginner's class by [Gabor Szabo](https://szabgab.com/)
